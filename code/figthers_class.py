@@ -4,4 +4,5 @@ class Figthers:
         self.attack = int(attack)
         self.defense = int(defense)
         
-    
+if __name__ == "__main__":
+    pass
